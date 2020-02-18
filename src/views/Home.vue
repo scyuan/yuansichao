@@ -12,9 +12,9 @@
       ></div>
     </div>
     <div class="menu trans10">
-      <a>关于</a>
-      <a>简历</a>
-      <a>其他</a>
+      <a href="about" target="_blank">关于</a>
+      <a href="resume" target="_blank">简历</a>
+      <a href="other" target="_blank">其他</a>
     </div>
   </div>
 </template>
@@ -54,6 +54,7 @@ export default {
   height: 100px;
   display: flex;
   justify-content: space-around;
+
   .mario {
     width: 100px;
     height: 100px;
@@ -84,6 +85,12 @@ export default {
     transform: scaleX(0);
     transform-origin: left;
     animation: slide 2s cubic-bezier(0.75, 0, 0, 1) forwards;
+  }
+}
+@keyframes fadeTop {
+  to {
+    transform: translate(0, 0);
+    opacity: 1;
   }
 }
 @keyframes slide {
@@ -128,6 +135,8 @@ export default {
     cursor: pointer;
     display: inline-block;
     position: relative;
+    color: #000;
+    text-decoration: none;
     &::after {
       content: "";
       height: 2px;
