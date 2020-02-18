@@ -12,9 +12,9 @@
       ></div>
     </div>
     <div class="menu trans10">
-      <a href="about" target="_blank">关于</a>
-      <a href="resume" target="_blank">简历</a>
-      <a href="other" target="_blank">其他</a>
+      <a>施</a>
+      <a>工</a>
+      <a>中</a>
     </div>
   </div>
 </template>
