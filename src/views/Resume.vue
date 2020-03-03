@@ -31,8 +31,8 @@
           </div>
           <div class="stl_01" style="left:4.92em;top: 10.1524em; z-index:77; ">
             <span class="stl_13 stl_08 stl_16" style="word-spacing:1.0579em;">个人网站：</span>
-            <a href="http://www.yuansichao.com" target="_blank" style="padding-left:1.1em">
-              <span class="stl_17 stl_08 stl_18">http://www.yuansichao.com &nbsp;</span>
+            <a href="https://www.github.com/scyuan" target="_blank" style="padding-left:1.1em">
+              <span class="stl_17 stl_08 stl_18">https://www.github.com/scyuan &nbsp;</span>
             </a>
           </div>
           <div class="stl_01" style="left:4.92em;top: 11.5724em; ">
@@ -60,19 +60,19 @@
             <span class="stl_21 stl_22 stl_09" style="word-spacing:-0.004em;">•</span>
             <span
               class="stl_23 stl_08 stl_26"
-            >深入了解MVVM框架，熟悉Vue框架及其相关生态产品，诸如vue-router/vuex/vue-cli/element-ui等。 &nbsp;</span>
+            >熟悉MVVM原理，熟悉Vue框架及其相关生态产品，诸如vue-router/vuex/vue-cli/element-ui等。 &nbsp;</span>
           </div>
           <div class="stl_01" style="left:4.92em;top: 22.1092em; z-index:325; ">
             <span class="stl_21 stl_22 stl_09" style="word-spacing:-0.004em;">•</span>
             <span
               class="stl_23 stl_08 stl_09"
-            >熟悉模块化、前端编译和常用的构建工具诸如Webpack/Gulp/，对其进行过相关的学习和实践。 &nbsp;</span>
+            >了解并掌握模块化、前端编译和常用的构建工具诸如Webpack/Gulp/，对其进行过相关的学习和实践。 &nbsp;</span>
           </div>
           <div class="stl_01" style="left:4.92em;top: 23.6092em; z-index:326; ">
             <span class="stl_21 stl_22 stl_09" style="word-spacing:-0.004em;">•</span>
             <span
               class="stl_23 stl_08 stl_09"
-            >了解并掌握NodeJS，结合Koa和Sequelize、Redis开发过一些轻量后台服务；熟悉常用的数据结构以及算法，对关系 &nbsp;</span>
+            >了解并掌握NodeJS，结合Koa和Sequelize、Redis开发过一些轻量后台服务；了解常用的数据结构以及算法，对关系 &nbsp;</span>
           </div>
           <div class="stl_01" style="left:4.92em;top: 25.1789em; ">
             <span class="stl_23 stl_08 stl_09">型数据库MySQL有一定的了解。 &nbsp;</span>
